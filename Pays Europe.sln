@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pays Europe", "Pays Europe\Pays Europe.vbproj", "{ED9188C1-CD7C-4F05-8AAC-61509F4067AB}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "Installation Pays Europe", "Installation Pays Europe\Installation Pays Europe.aiproj", "{0EE88274-0B1E-4223-A0F7-6866C10A166A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED9188C1-CD7C-4F05-8AAC-61509F4067AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9188C1-CD7C-4F05-8AAC-61509F4067AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED9188C1-CD7C-4F05-8AAC-61509F4067AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9188C1-CD7C-4F05-8AAC-61509F4067AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE88274-0B1E-4223-A0F7-6866C10A166A}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{0EE88274-0B1E-4223-A0F7-6866C10A166A}.Debug|Any CPU.Build.0 = DefaultBuild
+		{0EE88274-0B1E-4223-A0F7-6866C10A166A}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{0EE88274-0B1E-4223-A0F7-6866C10A166A}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
